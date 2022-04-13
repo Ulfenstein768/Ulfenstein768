@@ -1,8 +1,8 @@
 ### Hi there, My name is Úlfur Þór 👋
 
-## I am a 
+## I am a 23 year old movie enthusiast, living in Iceland
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Web Development
 - 🧑‍🤝‍🧑 I’m looking to collaborate with others on their projects
 - 📫 You can reach me via
   -   <a href="https://twitter.com/messages/compose?recipient_id=1232336952864772096" data-screen-name="@ulfurerulfur">
